@@ -1,0 +1,14 @@
+PowerBI-Financial-Sales-Dashboard/
+│
+├── Dataset/
+│   └── Financial_Sample.xlsx
+│
+├── Dashboard/
+│   └── Financial_Sales_Dashboard.pbix
+│   └── Financial_Sales_Dashboard.pdf
+│
+├── Documentation/
+│   └── PowerBI_Financial_Dashboard_Documentation.docx
+│   └── PowerBI_Financial_Dashboard_Documentation.pdf
+│
+└── README.md
